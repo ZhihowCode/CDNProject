@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDN.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bb0a474011545ca2f81b77d4bf4cd3bf0efee0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDN.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDN.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
