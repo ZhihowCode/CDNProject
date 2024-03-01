@@ -1,0 +1,11 @@
+E:\Code\CDNProject\CDN.Domain\obj\Debug\net8.0\CDN.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\CDNProject\CDN.Domain\obj\Debug\net8.0\CDN.Domain.AssemblyInfoInputs.cache
+E:\Code\CDNProject\CDN.Domain\obj\Debug\net8.0\CDN.Domain.AssemblyInfo.cs
+E:\Code\CDNProject\CDN.Domain\obj\Debug\net8.0\CDN.Domain.csproj.CoreCompileInputs.cache
+E:\Code\CDNProject\CDN.Domain\bin\Debug\net8.0\CDN.Domain.deps.json
+E:\Code\CDNProject\CDN.Domain\bin\Debug\net8.0\CDN.Domain.dll
+E:\Code\CDNProject\CDN.Domain\bin\Debug\net8.0\CDN.Domain.pdb
+E:\Code\CDNProject\CDN.Domain\obj\Debug\net8.0\CDN.Domain.dll
+E:\Code\CDNProject\CDN.Domain\obj\Debug\net8.0\refint\CDN.Domain.dll
+E:\Code\CDNProject\CDN.Domain\obj\Debug\net8.0\CDN.Domain.pdb
+E:\Code\CDNProject\CDN.Domain\obj\Debug\net8.0\ref\CDN.Domain.dll
